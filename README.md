@@ -11,8 +11,18 @@ WTBot 的源代码托管于 GitHub，所以我们选择在 GitHub 上创建一�
 
 ## 如何反馈？
 
+使用 GitHub 的 Issue 来反馈问题，你可以点击 [这里](https://github.com/axbot-dev/wtbot-feedback/issues) 并按照模板填写 Issue。
+
+如果没有合适的模板，你可以直接创建一个 Issue，但请确保你的 Issue 包含以下信息：
+
+- 问题的描述
+- 问题的复现步骤
+- WTBot 的版本号 （使用 `/wt version` 命令获取）
+
 ## 其他反馈方式
 
 如果你不知道该如何使用 GitHub，我们也提供了其他反馈方式，但请注意，其他渠道反馈的问题可能会被处理的更慢。
 
-![加入AXBot研究所](image.png)
+<img src="images/kook.png" height="500px" />
+<img src="images/qqgroup.jpg" height="500px" />
+
