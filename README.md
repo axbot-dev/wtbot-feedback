@@ -17,7 +17,13 @@ WTBot 的源代码托管于 GitHub，所以我们选择在 GitHub 上创建一�
 
 - 问题的描述
 - 问题的复现步骤
-- WTBot 的版本号 （使用 `/wt version` 命令获取）
+- WTBot 的版本号 （在KOOK文字频道中，使用 `/wt version` 命令获取）
+
+## 和 AXBot 的关系
+
+WTBot 是 AXBot 开发组开发的机器人，和 AXBot 机器人并没有直接关系。由于AXBot机器人的开发已经实质上暂停，故不会有新一代的AXBot出现了。
+
+WTBot作为AXBot机器人中战争雷霆游戏数据相关功能的继任者，将继续提供受限但免费的服务。
 
 ## 其他反馈方式
 
